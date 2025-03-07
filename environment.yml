@@ -1,0 +1,16 @@
+# conda env create -f environment.yml
+name: pysoar_statistics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - beautifulsoup4
+  - lxml
+  - pandas
+  - matplotlib
+  - urllib3
+  - requests
+  - seaborn
+  - statsmodels
+  - scikit-learn
