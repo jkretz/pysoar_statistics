@@ -14,7 +14,7 @@
 5. Create the conda environment and install the needed anaconda packages:
    ```bash
    conda env create -f environment.yml
-   conda activate metbrief
+   conda activate pysoar_statistics
    ```
    
 ## Settings 
